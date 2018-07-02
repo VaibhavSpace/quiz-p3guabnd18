@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="reset">Reset</string>
+    <string name="score">Score</string>
+    <string name="toast">Reset the quiz</string>
+    <string name="space"> </string>
+    <string name="resultScore">, you scored :</string>
+    <string name="error">Please answer all!</string>
+    <string name="name_hint">Your name</string>
+
+    <!--Question 1-->
+    <string name="q1">1. How many planets are there in our solar system? •</string>
+    <string name="q1_o1">15</string>
+    <string name="q1_o2">9</string>
+    <string name="q1_o3">8</string>
+    <string name="q1_o4">10</string>
+    <!--Question 2-->
+    <string name="q2">2. Which planet has the hottest surface? •</string>
+    <string name="q2_o1">Mercury</string>
+    <string name="q2_o2">Venus</string>
+    <string name="q2_o3">Mars</string>
+    <string name="q2_o4">Saturn</string>
+    <!--Question 3-->
+    <string name="q3">3. How many planets have moons? •</string>
+    <string name="hint3">Answer here</string>
+    <!--Question 4-->
+    <string name="q4">4. The asteroid belt lies between? •</string>
+    <string name="q4_o1">Earth and Mars</string>
+    <string name="q4_o2">Mars and Jupiter</string>
+    <string name="q4_o3">Jupiter and Saturn</string>
+    <string name="q4_o4">Mercury and Venus</string>
+    <!--Question 5-->
+    <string name="q5">5. The largest asteroids discovered in the asteroid belt are? •</string>
+    <string name="q5_o1">Hygiea</string>
+    <string name="q5_o2">Vesta</string>
+    <string name="q5_o3">Hebe</string>
+    <string name="q5_o4">Ceres</string>
+    <!--Question 6-->
+    <string name="q6">6. Who first suggested the ‘passing star hypothesis’ to describe the origin of the solar system? ••</string>
+    <string name="q6_o1">René Descartes</string>
+    <string name="q6_o2">Louis de Buffon</string>
+    <string name="q6_o3">Issac Newton</string>
+    <string name="q6_o4">Albert Einstein</string>
+    <!--Question 7-->
+    <string name="q7">7. How old is our solar system? •</string>
+    <string name="q7_o1">800 million years</string>
+    <string name="q7_o2">2 billion years</string>
+    <string name="q7_o3">5 billion years</string>
+    <string name="q7_o4">3.8 billion years</string>
+    <!--Question 8-->
+    <string name="q8">8. The average distance between the earth and the sun is equal to? •</string>
+    <string name="q8_o1">One light year</string>
+    <string name="q8_o2">One astronomical unit</string>
+    <string name="q8_o3">One parsec</string>
+    <string name="q8_o4">One light minute</string>
+</resources>
