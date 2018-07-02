@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
      * Result is called when the Score button is pressed and toast the user score..
      */
     public void Result(View view) {
+        score = 0; //resetting score
 
         EditText nameText = findViewById(R.id.user_name);
         String userName = String.valueOf(nameText.getText());
